@@ -1,4 +1,4 @@
-# Proyecto-final-Programacion 
+# Proyecto-final-Programacion -   CODIGO FINAL ES COMPLETO4
 Sistema de Monitoreo de Unidades de Cuidados Intensivos (UCI)
 Este sistema es una aplicacion desarrollada en C++ para el procesamiento y analisis de datos biometricos de pacientes. El software integra la lectura de archivos de configuracion, bases de datos de pacientes en formato CSV y registros biometricos en formato binario (BSF) para la deteccion automatica de anomalias en signos vitales.
 
